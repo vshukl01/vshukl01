@@ -106,6 +106,7 @@ Add Portfolio Link-->
 - Operational Efficiency 🚀
 - Reporting Automation 📈
 
+---
 <!-- TODO: Add this section later
 ---
 
@@ -116,6 +117,7 @@ Add Portfolio Link-->
 
 ---
 -->
+
 
 🚀 **Let's connect and innovate with AI!** 🚀
 
